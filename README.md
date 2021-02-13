@@ -4,8 +4,8 @@
 This tutorial focuses on usage of onboarding screen in react-native.
 
 In this video we learn:
- - How to use the React Native basics compoents. e.g. <View/>, <Text/>, <Image/>
- - Use <StatusBar/> to hide the status bar
+ - How to use the React Native basics compoents. e.g. < View/>, < Text/>, < Image/>
+ - Use < StatusBar/> to hide the status bar
  - Use react-native-swiper for swipping the images.
 
 
