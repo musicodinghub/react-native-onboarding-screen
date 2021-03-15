@@ -1,6 +1,5 @@
 ## How to make a onboarding screen using React Native | for beginners
 
-
 This tutorial focuses on usage of onboarding screen in react-native.
 
 In this video we learn:
@@ -32,4 +31,3 @@ Free Download / Stream: http://ncs.io/SaveMyself
 
 ## DEMO
 [![Watch the video](https://tva1.sinaimg.cn/large/008eGmZEgy1gnm0dt7y9nj30hs0a0wh2.jpg)](https://youtu.be/ucoqEeqOltM)
-![]()
